@@ -1,0 +1,16 @@
+{
+    "name": "Views.UI",
+    "rootNamespace": "",
+    "references": [
+        "Essentials"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

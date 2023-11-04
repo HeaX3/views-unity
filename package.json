@@ -1,0 +1,23 @@
+{
+  "name": "com.heax3.views-unity",
+  "version": "1.0.0",
+  "displayName": "Views",
+  "description": "Framework to control macro app view logic.",
+  "unity": "2022.3",
+  "unityRelease": "12f1",
+  "documentationUrl": "https://github.com/HeaX3/views-unity",
+  "licensesUrl": "https://github.com/HeaX3/views-unity",
+  "keywords": [],
+  "author": {
+    "name": "HeaX3",
+    "email": "heax@moonsama.com",
+    "url": "https://www.moonsama.com"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "",
+    "com.unity.ugui": "",
+    "com.heax3.state-machines-unity": "",
+    "com.heax3.unity-essentials": "",
+    "com.heax3.object-pooling-unity": ""
+  }
+}
